@@ -62,12 +62,7 @@
   
   **_examples :_** 
 
-  ![image](https://github.com/user-attachments/assets/b4a22efb-6a4d-4554-9751-3f0ce0987abc)
-
-  ![image](https://github.com/user-attachments/assets/f0ed4a51-df6d-4dcf-b920-5154f6254b3e)
-  
-  ![image](https://github.com/user-attachments/assets/72898c0e-3e10-4aa5-850b-e07fbb2d6cb0)
-
+ 
 
 | Command                  | What it does                   |
 | ------------------------ | ------------------------------ |
@@ -93,34 +88,20 @@
 
   ### **_SIMPLE ADDITION_**
   
-  ![image](https://github.com/user-attachments/assets/9e37ddee-202e-4f73-aa5a-28d8042cf6eb)
-
-  ![image](https://github.com/user-attachments/assets/eed7090f-17f6-4e8a-812a-dd8b1aefe07c)
-
+  
   ### **_COMPARING TWO NUMBERS_**
 
-  ![image](https://github.com/user-attachments/assets/9665dbe9-d2dd-4c9b-acf2-8968b46f196b)
-
-  ![image](https://github.com/user-attachments/assets/87c93ed5-7a6a-4d84-9d54-15139a4a2f3d)
+  
 
   ### **_PRINT NO. FROM 1 TO 5_**
 
-  ![image](https://github.com/user-attachments/assets/02555458-09b8-428b-b58f-f2d2070ff3ad)
-
-  ![image](https://github.com/user-attachments/assets/1255dfcb-3126-404c-8f80-4730b5ea4e98)
   
   ### **_MULTIPLICATION TABLE_**
 
-  ![image](https://github.com/user-attachments/assets/815e5721-cb05-4a76-a8ed-369441cb13a0)
-
-  ![image](https://github.com/user-attachments/assets/8ba18cb5-c762-4b39-b569-efef3b8cb7b7)
-  
+ 
   ### **_BIO DATA_**
 
-  ![image](https://github.com/user-attachments/assets/9ac40c52-f3d5-4b93-9c17-279fc08a5052)
-
-  ![image](https://github.com/user-attachments/assets/da1de9b0-47ee-49fe-adbb-8984aaa81a83)
-
+ 
   # File and Directory Permission
 
   ### **_Change mode(chmod)_**
@@ -185,7 +166,6 @@
 ### **_1. Make a Script Executable_**
   You wrote a shell script and want to run it directly.
 
-![image](https://github.com/user-attachments/assets/bd64b5e9-65be-47bf-9746-87c1978b195d)
 
 ### **_2. Make a File Read-Only_**
   You want to protect a file so no one (even you) can accidentally edit it.
@@ -199,24 +179,19 @@
         tail important.txt
         ✔️ You can view the content, but ❌ cannot edit or save changes.
 
-![image](https://github.com/user-attachments/assets/f1d31a08-7e0b-4063-8891-f3fdc1060960)
 
 ### **_3. Give Execute Permission to All Users_**
   You have a program/script. Everyone can execute it(user, group, others).
 
-![image](https://github.com/user-attachments/assets/4965cd0f-ebb3-4f8e-8dfd-7dec959f84ee)
+
 
 ### **_4. Remove All Permissions (Lock a File Completely)_**
   Temporarily block all access to a file.
 
-![image](https://github.com/user-attachments/assets/3ef3fb7a-6636-4616-a689-6394d545b852)
 
-![image](https://github.com/user-attachments/assets/167e35af-1012-42f9-abb7-2b9617699706)
 
 ### **_5. Set Full Access for User, Read-Only for Others_**
   You want to edit a file, but others can only view it.
-
-![image](https://github.com/user-attachments/assets/e2c9e84c-4885-48a7-9ea0-acdb9d925365)
 
 
 # ASSIGNMENT 
@@ -258,24 +233,21 @@
 ### **_1. Change Owner Only_**
 This changes only the user who owns the file. The group stays the same.
 
-![image](https://github.com/user-attachments/assets/b41ee9c0-03f5-486c-890a-364790a4551c)
 
-![image](https://github.com/user-attachments/assets/66abf7e4-7281-43f9-af18-4784fc5c69a1)
 
 ### **_2. Change Only the Group_**
 This changes only the group.
 
-![image](https://github.com/user-attachments/assets/224e8023-2629-4aed-8f6b-866bf6ffe265)
+
 
 ### **_3. Change Owner and Group_**
 This changes both the owner and the group.
 
-![image](https://github.com/user-attachments/assets/99dd09f1-f1af-462f-b83a-8c9fa096ad74)
+
 
 ### **_4. Change Ownership of a Folder and Its Contents (Recursive)_**
 -R changes ownership of all files and directories(folders) inside myfolder
 
-![image](https://github.com/user-attachments/assets/e316bb8b-dcbf-40c4-8cfd-83827be7dd7c)
 
 ### **_5. Check Ownership of a File_**
 Using ls -l file.txt
@@ -309,7 +281,7 @@ command1 | command2
   sort -> sorts them alphabetically
   Output -> A sorted list of your files
 
-![image](https://github.com/user-attachments/assets/3dd90ee7-5eb6-4c96-b0f5-6d80f4a60224)
+
 
 ### **_Why to use pipes?_**
   Pipes let you:
